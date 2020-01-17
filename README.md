@@ -2,6 +2,9 @@
 
 This is a power input/output board for the Mean Well RT65-B power supply.
 
+![Top](media/rt65b-power-top.png)
+![Face](media/rt65b-power-face.png)
+
 ## BOM
 
 The AC power entry module footprint is a Schurter KP01.1112.11 and the DC output is a circular DIN-7.
