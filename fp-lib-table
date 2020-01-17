@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rt65b-breakout)(type KiCad)(uri ${KIPRJMOD}/rt65b-breakout.pretty)(options "")(descr ""))
+)
