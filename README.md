@@ -2,8 +2,14 @@
 
 This is a power input/output board for the Mean Well RT65-B power supply.
 
+This supply is commonly used as a replacement for the Amiga 500 power supply.
+
 ![Top](media/rt65b-power-top.png)
 ![Face](media/rt65b-power-face.png)
+
+## Ordering
+
+If you'd like to quickly order some boards I [published the project at Oshpark](https://oshpark.com/shared_projects/dqlXqoSQ)
 
 ## BOM
 
