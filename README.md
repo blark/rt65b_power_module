@@ -9,7 +9,7 @@ This supply is commonly used as a replacement for the Amiga 500 power supply.
 
 ## Ordering
 
-If you'd like to quickly order some boards I [published the project at Oshpark](https://oshpark.com/shared_projects/dqlXqoSQ)
+If you'd like to quickly order some boards I [published the project at Oshpark](https://oshpark.com/shared_projects/TvA0zYfn)
 
 ## BOM
 
